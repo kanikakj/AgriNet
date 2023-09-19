@@ -1,4 +1,4 @@
-# Team 42 - Solution Name
+# Team 42 - AgriNet
 
 ## Gather, Organize, Analyze data
 
