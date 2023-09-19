@@ -1,4 +1,4 @@
-# Team 42 - AgriNet
+# Team 42 - 8bitsSocials
 
 ## Gather, Organize, Analyze data
 
