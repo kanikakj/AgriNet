@@ -31,7 +31,7 @@ $> python manage.py runserver
 ### Team
 
 <a href="https://github.com/kanikakj">
-  <img src="https://avatars.githubusercontent.com/u/77913500?v=4" alt="Kanika Kanojiya" title="Kanika Kaojiya" style="width:5em;height:5em;border-radius:3em;padding:0.5em;">
+  <img src="https://avatars.githubusercontent.com/u/77913500?v=4" alt="Kanika Kanojia" title="Kanika Kanojia" style="width:5em;height:5em;border-radius:3em;padding:0.5em;">
 </a>
 
 <a href="https://github.com/Sarwesh2003">
